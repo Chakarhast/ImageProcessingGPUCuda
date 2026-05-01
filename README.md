@@ -1,5 +1,8 @@
 # 🚀 GPU-Accelerated Image Processing Pipeline using CUDA
 
+
+
+
 ## 📌 Project Motivation
 
 Modern workloads in computer vision and signal processing involve applying the same operation across large datasets. These workloads are inherently **data-parallel**, making them ideal candidates for GPU acceleration.
