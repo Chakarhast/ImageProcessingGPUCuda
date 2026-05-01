@@ -1,5 +1,8 @@
 # 🚀 GPU-Accelerated Image Processing Pipeline using CUDA
 
+| Image 1 | Image 2 |
+| :---: | :---: |
+| ![Caption 1](13246512-fd26-4637-82f6-3573284e6c93.jpeg) | ![Caption 2](fd240882-9dbd-4f71-adae-5a321f350cd9.jpeg) |
 
 
 
